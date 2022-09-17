@@ -1,3 +1,3 @@
 - Hi, I'm Anthony!
-- I'm currently a first year student at Cornell University studying Electrical/Computer Engineering and Computer Science.
+- I'm a first year student at Cornell University studying Electrical/Computer Engineering and Computer Science.
 - Currently, I'm sharing personal projects I do in Python and Java on my page.
